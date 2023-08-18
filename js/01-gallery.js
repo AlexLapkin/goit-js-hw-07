@@ -34,7 +34,7 @@ const onListClick = (event) => {
     <div class="modal">
       <img
       src="${galleryItem.original}" 
-      width="800"
+      width="1280"
     </div>
 `,
     {
